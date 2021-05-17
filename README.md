@@ -32,7 +32,7 @@ gpg --verify README.md.gpg README.md
 ```
 
 
-## Obsolate Keys
+## Obsolete Keys
 
 * 0x64513300C87AA967
 
