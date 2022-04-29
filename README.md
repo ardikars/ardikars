@@ -30,9 +30,3 @@ This [file](https://github.com/ardikars/ardikars/blob/master/README.md) is signe
 gpg --keyserver pgp.mit.edu --recv-keys 0x3941EC75119F398A
 gpg --verify README.md.gpg README.md
 ```
-
-
-## Obsolete Keys
-
-* 0x64513300C87AA967
-
