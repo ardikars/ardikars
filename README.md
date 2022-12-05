@@ -27,6 +27,6 @@ Projects I've ever worked on:
 This [file](https://github.com/ardikars/ardikars/blob/master/README.md) is signed with my private key; You can verify this [file](https://github.com/ardikars/ardikars/blob/master/README.md) and it's [signature](https://github.com/ardikars/ardikars/blob/master/README.md.gpg) with the following commands:
 
 ```bash
-gpg --keyserver pgp.mit.edu --recv-keys 0x3941EC75119F398A
+gpg --keyserver keyserver.ubuntu.com --recv-keys 0x3941EC75119F398A
 gpg --verify README.md.gpg README.md
 ```
